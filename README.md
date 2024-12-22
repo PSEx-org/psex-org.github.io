@@ -1,2 +1,2 @@
-# psex-org.github.io
-splash
+# PSEx
+Perpetual Swaps Exchange
